@@ -1,0 +1,14 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "net.gogo.giantmountains.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "refmap": "giantmountans.refmap.json",
+  "mixins": [
+  ],
+  "client": [
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
